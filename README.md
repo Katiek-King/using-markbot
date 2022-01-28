@@ -14,4 +14,4 @@ This is the starter code for a step-by-step lesson. Each step is described in de
 
 ## Questions or concerns
 
-If you run into problems completing the task ask the teacher in class or, if you’re working outside of class, **create an Issue on your repository and tag the teacher**.
+If you run into problems completing the task ask the teacher in class or, if you’re working outside of class, **create an Issue on your repository and tag the teacher**..
